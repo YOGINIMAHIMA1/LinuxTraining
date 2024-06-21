@@ -6,3 +6,4 @@
 
 *         WE have  have learn how to use cisco packet tracer , how to connect two router, router and pc . hot to give  default gateway value
 *     how to use command prompt in cisco packet tracer , how to make communication between two devices.
+*     Linux commands  - cd , pwd , cd .. , ls , ls -h, ls -a, cp , mv, mkdir, rmdir, nano, touch , cat ,echo , sort , rm -rf filename, cd ., man, ls -al, ls -lh, sort filename |uniq, sort filename |uniq -d, open ., find, exit, history etc
