@@ -77,6 +77,10 @@ which ls
 nano file7.txt
 sudo -i
 export
+uname
+history
+crontab -e
+env
 passwd
 history
 rm -rf file3.txt
