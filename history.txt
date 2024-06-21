@@ -81,6 +81,12 @@ uname
 history
 crontab -e
 env
+gzip -1 file5.txt
+history
+ls
+ls -a
+tar -cf archive.tar file5 file6
+history
 passwd
 history
 rm -rf file3.txt
