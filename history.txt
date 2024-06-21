@@ -1,0 +1,83 @@
+mkdir linuxcmd
+cat> 1.txt
+  cat 1.txt
+touch file2.txt
+  touch file3.txt file4.txt file5.txt
+  cd ..
+  mkidir 
+man
+ls
+ls -h
+ls -all /bin
+ls / home
+ls -a
+cd .
+mkdir fruits
+cd fruits
+mkdir fruits
+mkdir cars
+cd fruits
+cd ../cars
+pwd
+sudo apt update
+sudo apt upgrade 
+echo "hello"
+echo "hi" >> file1.txt
+mkdir -p folder/file3
+mkdir cake
+rmdir cake
+rm -rf file3.txt
+touch test
+mv file2 file3
+open .
+open file2.txt
+find file2.txt
+gcc --version
+apt update 
+apt upgrade
+ping google.com
+iwconfig
+git init
+git add .
+git status
+git push origin main
+cd ..
+wc file5.txt
+chmod 776 file4.txt
+nslookup google.com
+git commit -m "updated"
+ls -lt
+find folder1  -name file1.txt
+gzip file4.gz
+gzip filename1 filename2
+gunzip file5.gz
+tar -cf archive.tar file1 file2
+cat file1 file2 >> file3
+less file4.txt
+history
+tail file6.txt
+echo test >> test.txt
+wc test.txt
+sort -u file3.txt
+ ls |sort
+uniq file4.txt
+ls | uniq
+sort file4.txt | uniq -d
+echo o*
+echo ~
+chown flavio test.txt
+chmod 755 file5.txt
+basename
+dirname
+top
+top -o mem
+fg
+typeof file2.txt
+which ls
+nano file7.txt
+sudo -i
+export
+passwd
+history
+rm -rf file3.txt
+
